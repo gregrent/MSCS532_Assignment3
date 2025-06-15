@@ -23,11 +23,8 @@ This project includes two core data structure and algorithm implementations in P
 ### Requirements
 - Python 3.6 or higher (no external libraries needed)
 
-### Running the Randomized Quicksort Demo
+### Command to run
 python randomized_quicksort.py
-
-### Running the Hash Table Demo
-python hashing_with_chaining.py
 
 ---
 
