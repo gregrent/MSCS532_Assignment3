@@ -24,7 +24,7 @@ This project includes two core data structure and algorithm implementations in P
 - Python 3.6 or higher (no external libraries needed)
 
 ### Command to run
-python randomized_quicksort.py
+python assignment_3.py
 
 ---
 
